@@ -1,0 +1,40 @@
+kode_kerusakan,kerusakan,kode_gejala,gejala
+K001,Karburator kotor,G001,Klakson tidak bunyi
+K002,Kerusakan aki,G002,Kelistrikan mati
+K003,Kerusakan klep,G003,Double stater sulit
+K004,Kerusakan speedometer,G004,Standar stater sulit
+K005,Kerusakan piston,G005,Suara knalpot meletus
+K006,Kerusakan digital CDI,G006,Keluar asap hitam dari knalpot
+K007,Kerusakan rotary transmisi,G007,Keluar asap putih dari knalpot
+K008,Kerusakan rem kopling,G008,Suara kasar pada knalpot
+K009,Kerusakan regulator motor,G009,Mesin mudah panas
+K010,Kerusakan ekectric stater,G010,Mesin mati saat di gas
+K011,Kampas rem kotor,G011,Mesin tersendat-sendat
+K012,Pilot jet dan main jet bermasalah,G012,Mesin motor susah dinyalakan
+K013,Tali gas korosif,G013,Mesin motor ngegas sendiri
+K014,Setelan karburator tidak pas,G014,Mesin motor macet / mati mendadak
+K015,Seal sock beker depan bocor,G015,Bahan bakar boros
+K016,Seal master rem bocor,G016,Bahan bakar bocor nerembes
+K017,Bearing roda rusak,G017,Reating dan lampu tidak bekerja
+K018,Ban tipis / bocor halus,G018,Cahaya lampu motor meredup
+K019,Filter udara kotor,G019,Lampu ornament mati saat mesin dihidupkan
+K020,CVT kotor,G020,Lampu gigi transmisi mati daat mesin dihidupkan
+K021,Nozel injector kotor,G021,Oli mesin cepat habis
+,,G022,Oli rem cepat habis
+,,G023,Oli sock beker cepat habis
+,,G024,Keluar oli pada sock beker depan
+,,G025,Dynamo stater mengeluarkan suara kasar
+,,G026,Dynamo stater panas
+,,G027,Gigi proseneling bisa loncat dengan sendirinya
+,,G028,Hentakan saat memindahkan gigi
+,,G029,Saat memasukkan gigi transmisi sering loss
+,,G030,Roda motor macet
+,,G031,Roda mengalami ogel
+,,G032,Timbul suara kasar ketika dipakai dijalan rusak
+,,G033,Tidak berbunyi saat dihibupkan menggunakan electric stater
+,,G034,Saat menggunakan electric stater selip tidak mau berputar namun terdapat bunyi
+,,G035,Rem cakram tidak bisa digunakan
+,,G036,Aki motor tiba-tiba melemah
+,,G037,
+,,G038,
+,,G039,

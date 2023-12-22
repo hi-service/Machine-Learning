@@ -1,0 +1,28 @@
+kode_kerusakan,kerusakan,kode_gejala,gejala
+1,'Overheat',101,'Overheat pada mesin'
+1,Overheat,102,Warna asap putih
+1,Overheat,103,Bunyi mesin aneh
+2,Knockin sound ,201,Bunyi knockin
+2,Knockin sound ,202,Turunnya performa mesin
+2,Knockin sound ,203,etaran abnormal
+3,Oil leakae,301,Bercak oli di bawah motor
+3,Oil leakae,302,Penuranan level oli
+3,Oil leakae,303,Oli bocor dari blok mesin
+4,Battery failure ,401,Mesin tidak dapat dinyalakan
+4,Battery failure ,402,Kondisi aki melemah
+4,Battery failure ,403,Lampu indikator baterai menyala
+5,Startin issues ,501,Mesin sulit dihidupkan
+5,Startin issues ,502,Starter motor berbunyi aneh
+5,Startin issues ,503,Mesin mati mendadak
+6,Excessive vibration,601,etaran kuat pada mesin
+6,Excessive vibration,602,etaran pada kemudi
+6,Excessive vibration,603,Suara berisik saat berkendara
+7,Smoke from exhaust,701,Warna asap hitam
+7,Smoke from exhaust,702,Bau asap yan tidak biasa
+7,Smoke from exhaust ,703,Mesin tidak berdaya
+8,Brakin issues,801,Bunyi berdecit saat menerem
+8,Brakin issues,802,Rem terasa licin
+8,Brakin issues,803,Percepatan berkuran saat menerem
+9,Transmission problems,901,esekan saat perpindahan ii
+9,Transmission problems,902,Kesulitan memindahkan tuas ii
+9,Transmission problems,903,Bunyi aneh dari transmisi
